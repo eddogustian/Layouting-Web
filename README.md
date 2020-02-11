@@ -20,8 +20,7 @@ attribute colspan diletakan dalam tag <td> dan kamu bisa ngatru "value" atau nil
         <td>kotak 5</td>
     </tr>
 </table>
-dan hasilnya akan menjadi seperti ini :
-<img src="img/colspan.png">
+
 note:
 Dengan mengatur colspan menjadi "5", kotak di baris pertama akan menjadi gabungan dari 5 kolom.
 
@@ -46,5 +45,3 @@ Rowspan tugasnya untuk menyatukan kotak-kotak row kebawah sehingga menjadi satu 
         <td>Kotak 5</td>
     </tr>
 </table>
-dan hasilnya pada browser : 
-<img src="img/rowspan.png">
